@@ -11,7 +11,7 @@ requirements = python3,kivy,pillow,arabic_reshaper,python-bidi==0.4.2,six
 
 # فایل‌های آیکون و تصویر آغازین
 icon.filename = icon.png
-presplash.filename = Cornix.png
+presplash.filename = Cornix.jpg
 
 # جهت چرخش صفحه به صورت عمودی
 orientation = portrait
